@@ -1,9 +1,3 @@
-# Sandeep Joshi
-
-**Staff Software Engineer · Distributed Systems · Payments · Applied AI**
-
-Building reliable systems at scale. Now building intelligent ones.
-
 Currently working on applied AI, agentic developer systems, and model evaluation
 
 ## Live engineering metrics
