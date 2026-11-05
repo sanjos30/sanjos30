@@ -2,21 +2,21 @@
 <rect width="900" height="480" rx="18" fill="#0d1424"/>
 <rect x="1" y="1" width="898" height="478" rx="18" fill="none" stroke="#26374e"/>
 <text x="30" y="42" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#f8fafc">ENGINEERING ACTIVITY</text>
-<text x="30" y="65" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#95a7c1">@sanjos30  •  Updated 04 Nov 2026 UTC</text>
+<text x="30" y="65" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#95a7c1">@sanjos30  •  Updated 05 Nov 2026 UTC</text>
 <rect x="30" y="84" width="265" height="94" rx="10" fill="#152137"/>
 <text x="45" y="110" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#94a3b8">CONTRIBUTIONS / 12 MO</text>
-<text x="45" y="155" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#7dd3fc">2,371</text>
+<text x="45" y="155" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#7dd3fc">2,380</text>
 <rect x="315" y="84" width="265" height="94" rx="10" fill="#152137"/>
 <text x="330" y="110" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#94a3b8">PUBLIC SOURCE REPOS</text>
-<text x="330" y="155" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#7dd3fc">17</text>
+<text x="330" y="155" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#7dd3fc">16</text>
 <rect x="600" y="84" width="265" height="94" rx="10" fill="#152137"/>
 <text x="615" y="110" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" fill="#94a3b8">ACTIVE / 90 DAYS</text>
-<text x="615" y="155" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#7dd3fc">16</text>
+<text x="615" y="155" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#7dd3fc">15</text>
 <text x="30" y="211" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#dce6f3">TOP LANGUAGES  •  PUBLIC NON-FORK REPOS (BY CODE SIZE)</text>
 <text x="30" y="243" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#cbd5e1">Python</text>
 <rect x="145" y="230" width="230" height="13" rx="6" fill="#25344a"/>
 <rect x="145" y="230" width="230.0" height="13" rx="6" fill="#38bdf8"/>
-<text x="388" y="243" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#94a3b8">87.3%</text>
+<text x="388" y="243" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#94a3b8">87.4%</text>
 <text x="30" y="281" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#cbd5e1">JavaScript</text>
 <rect x="145" y="268" width="230" height="13" rx="6" fill="#25344a"/>
 <rect x="145" y="268" width="20.2" height="13" rx="6" fill="#38bdf8"/>
@@ -29,10 +29,10 @@
 <rect x="145" y="344" width="230" height="13" rx="6" fill="#25344a"/>
 <rect x="145" y="344" width="2.0" height="13" rx="6" fill="#38bdf8"/>
 <text x="388" y="357" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#94a3b8">0.8%</text>
-<text x="30" y="395" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#cbd5e1">CSS</text>
+<text x="30" y="395" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#cbd5e1">C++</text>
 <rect x="145" y="382" width="230" height="13" rx="6" fill="#25344a"/>
-<rect x="145" y="382" width="1.8" height="13" rx="6" fill="#38bdf8"/>
-<text x="388" y="395" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#94a3b8">0.7%</text>
+<rect x="145" y="382" width="1.6" height="13" rx="6" fill="#38bdf8"/>
+<text x="388" y="395" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="400" fill="#94a3b8">0.6%</text>
 <text x="490" y="211" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#dce6f3">RECENTLY UPDATED PROJECTS</text>
 <text x="490" y="245" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">sanjos30</text>
 <text x="490" y="263" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#94a3b8">Last pushed: 2026-11-04</text>
@@ -40,7 +40,7 @@
 <text x="490" y="308" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#94a3b8">Last pushed: 2026-09-15</text>
 <text x="490" y="335" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Soapui-Starter-V1</text>
 <text x="490" y="353" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#94a3b8">Last pushed: 2026-09-15</text>
-<text x="490" y="380" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">sanjos30.github.io</text>
+<text x="490" y="380" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">sanjaya-app</text>
 <text x="490" y="398" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#94a3b8">Last pushed: 2026-09-15</text>
 <text x="30" y="455" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="400" fill="#7e91ac">Contribution counts follow GitHub’s profile visibility settings. Repositories exclude forks.</text>
 </svg>
